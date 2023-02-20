@@ -9,6 +9,7 @@ python -m venv env
 # linux / Mac OS
 vitualenv env
 
+
 # ACTIVATING ENVIRONMENT
 # windows
 .\env\Scripts\activate
